@@ -1,0 +1,17 @@
+{
+  "author": "gis_rc",
+  "dependencies": {
+    "pako": "^2.0.3"
+  },
+  "description": "This is a project for cesium to load s3m standerd tiles.",
+  "keywords": [
+    "s3m"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "s3m_parser_es6",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
