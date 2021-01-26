@@ -8,4 +8,5 @@ https://github.com/2496772010/cesium-s3m-parser-demo
 >
 #s3m-spec
 原项目github地址，https://github.com/SuperMap/s3m-spec。
-
+#博客地址
+https://blog.csdn.net/weixin_44265800/article/details/113172801
